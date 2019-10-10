@@ -9,6 +9,11 @@
   2. [Требования пользователей](#2) <br>
     2.1 [Программные интерфейсы](#2.1) <br>
     2.2 [Интерфейс пользователя](#2.2) <br>
+      2.2.1 [Окно создания профиля](#2.2.1)<br>
+      2.2.2 [Главное окно](#2.2.2)<br>
+      2.2.3 [Статистика](#2.2.3)<br>
+      2.2.4 [Достижения](#2.2.4)<br>
+      2.2.5 [Настройки](#2.2.5)<br>
     2.3 [Характеристики пользователей](#2.3) <br>
       2.3.1 [Аудитория приложения](#2.3.1) <br>
     2.4 [Предположения и зависимости](#2.4) <br>
@@ -48,8 +53,16 @@
   - Должна быть создана система подсчёта статистики результатов пользователя.
   - Должна быть создана система достижений и целей пользователя.
 #### 2.2 Интерфейс пользователя <a name="2.2"></a>
-    - Окно создания профиля
-      ![CreatingProfile](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/CreatingProfile.png)
+##### 2.2.1 Окно создания профиля <a name="2.2.1"></a>
+  ![CreatingProfile](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/CreatingProfile.png)
+##### 2.2.2 Главное окно <a name="2.2.2"></a>
+  ![MainWindow](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/MainWindow.png)
+##### 2.2.3 Статистика <a name="2.2.3"></a>
+  ![Statistics](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/Statistics.png)
+##### 2.2.4 Достижения <a name="2.2.4"></a>
+  ![Achievements](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/Achievements.png)
+##### 2.2.5 Настройки <a name="2.2.5"></a>
+  ![Settings](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/Settings.png)
 #### 2.3 Характеристики пользователей <a name="2.3"></a>
 ##### 2.3.1 Аудитория приложения  <a name="2.3.1"></a>
 Данное приложение создаётся для использования людьми любого пола и возраста, которые желают контролировать свою двигательную активность 
