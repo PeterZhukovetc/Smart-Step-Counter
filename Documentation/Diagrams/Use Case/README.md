@@ -12,7 +12,7 @@
 
 # 1. Диаграмма вариантов использования
 
-![Диаграмма вариантов использования]()
+![Диаграмма вариантов использования](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Use%20Case/Use%20Case%20.png)
 
 ## 1.1 Актёры<a name="1.1"/>
 
