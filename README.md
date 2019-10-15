@@ -4,3 +4,4 @@
 ## Содержание
   1. [SRS](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/SRS.md)
   2. [Mockups](https://github.com/PeterZhukovetc/Smart-Step-Counter/tree/master/Other/Mockups)
+  3. [Use case diagram](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Use%20Case/README.md)
