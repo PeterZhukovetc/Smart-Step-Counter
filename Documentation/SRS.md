@@ -59,11 +59,11 @@
 ##### 2.2.2 Главное окно <a name="2.2.2"></a>
   ![MainWindow](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/MainWindow.png)
 ##### 2.2.3 Статистика <a name="2.2.3"></a>
-  ![Statistics](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/Statistics.png)
+  ![Statistics](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/Statistics_.png)
 ##### 2.2.4 Достижения <a name="2.2.4"></a>
-  ![Achievements](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/Achievements.png)
+  ![Achievements](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/Achievements_.png)
 ##### 2.2.5 Настройки <a name="2.2.5"></a>
-  ![Settings](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/Settings.png)
+  ![Settings](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Other/Mockups/Settings_.png)
 #### 2.3 Характеристики пользователей <a name="2.3"></a>
 ##### 2.3.1 Аудитория приложения  <a name="2.3.1"></a>
 Данное приложение создаётся для использования людьми любого пола и возраста, которые желают контролировать свою двигательную активность 
