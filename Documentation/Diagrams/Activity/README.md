@@ -11,22 +11,22 @@
 # 1. Диаграммы активностей<a name="1"/>
 
 ## 1.1 Создание профиля<a name="1.1"/>
-![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/CreateProfile.jpg)
+![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/CreatingProf.jpg)
 
 ## 1.2 Запуск/остановка подсчёта шагов<a name="1.2"/>
-![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/StartStopCounting.jpg)
+![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/StartStopCounting_.jpg)
 
 ## 1.3 Взаимодействие с целями<a name="1.3"/>
-![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/InteractWithGoals.jpg)
+![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/InteractWithGoals_.jpg)
 
 ## 1.4 Взаимодействие с достижениями<a name="1.4"/>
-![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/InteractWithAchievements.jpg)
+![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/InteractWithAchievements_.jpg)
 
 ## 1.5 Взаимодействие со статистикой<a name="1.5"/>
-![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/InteractWithStatistics.jpg)
+![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/InteractWithStatistics_.jpg)
 
 ## 1.6 Просмотреть рекорды<a name="1.6"/>
-![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/ViewRecords.jpg)
+![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/ViewRecords_.jpg)
 
 ## 1.7 Изменить настройки<a name="1.7"/>
-![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/SettingsChanging.jpg)
+![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/SettingsChangings_.jpg)
