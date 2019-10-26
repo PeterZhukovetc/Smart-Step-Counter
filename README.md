@@ -7,4 +7,4 @@
 3. [Diagrams](https://github.com/PeterZhukovetc/Smart-Step-Counter/tree/master/Documentation/Diagrams)<br>
 3.1 [Use Case diagram](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Use%20Case/README.md)<br>
 3.2 [Activity diagrams](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/README.md)<br>
-3.3 [Sequence diagrams](https://github.com/PeterZhukovetc/Smart-Step-Counter/tree/master/Documentation/Diagrams/Sequence)<br>
+3.3 [Sequence diagrams](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Sequence/README.md)<br>
