@@ -5,4 +5,4 @@
 # 1. Диаграммы активности<a name="1"/>
 
 ## 1.1 Отобразить график активности за 10 дней<a name="1.1"/>
-![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Sequence/ShowStatistics.jpg)
+![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Sequence/ShowStatistics_.jpg)
