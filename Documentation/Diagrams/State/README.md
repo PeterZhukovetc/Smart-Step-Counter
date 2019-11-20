@@ -16,8 +16,8 @@
 ## 1.3 Создание новой цели<a name="1.3"/>
 ![Создание новой цели](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/CreatingAims.png)
 ## 1.4 Удаление профиля<a name="1.4"/>
-![Удаление профиля](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/DeletingProfile.png)
+![Удаление профиля](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/DeletingProfile_.png)
 ## 1.5 Изменение параметра роста<a name="1.5"/>
-![Изменение параметра роста](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/HeightChanging.png)
+![Изменение параметра роста](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/HeightChanging_.png)
 ## 1.6 Изменение чувствительности<a name="1.6"/>
-![Изменение чувствительности](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/SensitivityChange.png)
+![Изменение чувствительности](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/SensetivityChange_.png)
