@@ -29,4 +29,4 @@
 ![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/ViewRecords_.jpg)
 
 ## 1.7 Изменить настройки<a name="1.7"/>
-![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/SettingsChangings_.jpg)
+![](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Activity/SettingsInteract.jpg)
