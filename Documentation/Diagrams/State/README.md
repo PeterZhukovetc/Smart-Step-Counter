@@ -13,7 +13,7 @@
 ## 1.2 Изменение состояния счётчика<a name="1.2"/>
 ![Изменение состояния счётчика](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/CountingSteps.png)
 ## 1.3 Создание новой цели<a name="1.3"/>
-![Создание новой цели](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/CreatingAims.png)
+![Создание новой цели](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/Goal_Creating.jpg)
 ## 1.4 Удаление профиля<a name="1.4"/>
 ![Удаление профиля](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/Profile_Deleting.jpg)
 ## 1.5 Изменение параметра роста<a name="1.5"/>
