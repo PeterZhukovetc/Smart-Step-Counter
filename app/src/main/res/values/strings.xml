@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Smart_Step_Counter</string>
+    <string name="createBtn">Создать</string>
+    <string name="heightText">Ваш рост :</string>
+    <string name="profileCreateTxt">Создание профиля</string>
+    <string name="cmTxt">см</string>
+    <string name="settingsTxt">Настройки</string>
+    <string name="backBtnTxt">&lt;Назад</string>
+    <string name="changeHeightBtnTxt">Изменить параметр рост</string>
+    <string name="deleteProfileBtnTxt">Сбросить данные</string>
+    <string name="mainLblTxt">Главная</string>
+    <string name="stepsLblTxt">Шаги</string>
+    <string name="actualStepsTxt">0</string>
+    <string name="distanceLblTxt">Расстояние</string>
+    <string name="actualDistanceTxt">0</string>
+    <string name="counterControlBtnOnPos">Пауза</string>
+    <string name="counterControlBtnOffPos">Пуск</string>
+    <string name="meterTxt">м</string>
+    <string name="statisticsTxt">Статистика</string>
+    <string name="tenDaysStatisticsTxt">Сводка за последние 10 дней</string>
+    <string name="totalStatisticsTxt">Общая статистика</string>
+    <string name="achievementsTxt">Достижения</string>
+    <string name="goalsTxt">Цели</string>
+    <string name="addGoalBtnTxt">Добавить</string>
+    <string name="achievementsListTxt">Список достижений</string>
+    <string name="recordsTxt">Рекорды</string>
+    <string name="toMainScreenFromAchievementsTxt">Главная&gt;</string>
+    <string name="toAchievementsTxt">&lt;Достижения</string>
+    <string name="toStatisticsTxt">Статистика&gt;</string>
+    <string name="tMainScreenFromStatisticsTxt">&lt;Главная</string>
+    <string name="confirmMessageTxt">Вы действительно хотите сбросить все данные?</string>
+    <string name="yesBtnTxt">Да</string>
+    <string name="cancelBtnTxt">Отмена</string>
+    <string name="changeHeightTxt">Выберите новое значение</string>
+    <string name="changeHeightConfirmBtnTxt">Изменить</string>
+    <string name="createGoalBtnTxt">Создать</string>
+
+
+</resources>
