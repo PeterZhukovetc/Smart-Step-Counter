@@ -14,5 +14,7 @@
 3.4 [Class diagrams](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Class/README.md)<br>
 3.5 [Deployment diagrams](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/Deployment/README.md)<br>
 3.6 [State diagrams](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Documentation/Diagrams/State/README.md)<br>
-4. [Test Plan](Testing/TestPlan.md)
-5. [Test Result](Testing/TestResults.md)
+4. [Test Plan](Testing/TestPlan.md)<br>
+5. [Test Result](Testing/TestResults.md)<br>
+6. [Test Plan(Kapitanov)](Testing/TestPlan_.md)<br>
+7. [Test Result(Kapitanov)](Testing/TestResults_.md)
