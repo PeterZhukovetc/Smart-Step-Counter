@@ -85,7 +85,7 @@
 
 <a name="6"></a>
 ### 6. Представление результатов
-Результаты тестирования будут представлены в [таблице](Тестирование/TestResults).
+Результаты тестирования будут представлены в [таблице](https://github.com/PeterZhukovetc/Smart-Step-Counter/blob/master/Testing/TestResults_.md).
 
 <a name="7"></a>
 ### 7. Выводы
