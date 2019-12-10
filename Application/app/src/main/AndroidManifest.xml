@@ -10,39 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <service
-            android:name=".MyIntentService"
+            android:name=".ApplicationService"
+            android:enabled="true"
             android:exported="false"></service>
 
         <activity
             android:name=".ChangeHeightActivity"
             android:excludeFromRecents="true"
-            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Dialog" />
         <activity
             android:name=".CreateGoalActivity"
             android:excludeFromRecents="true"
-            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Dialog" />
         <activity
             android:name=".ConfirmingActivity"
             android:excludeFromRecents="true"
-            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Dialog" />
         <activity
-            android:name=".AchievementsActivity"
-            android:screenOrientation="portrait" />
+            android:name=".AchievementsActivity" />
         <activity
-            android:name=".StatisticsActivity"
-            android:screenOrientation="portrait" />
+            android:name=".StatisticsActivity" />
         <activity
-            android:name=".SettingsActivity"
-            android:screenOrientation="portrait" />
+            android:name=".SettingsActivity" />
         <activity
             android:name=".MainScreenActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait"/>
         <activity
-            android:name=".ProfileCreatingActivity"
-            android:screenOrientation="portrait">
+            android:name=".ProfileCreatingActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

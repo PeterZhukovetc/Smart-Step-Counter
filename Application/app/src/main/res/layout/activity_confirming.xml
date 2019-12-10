@@ -23,14 +23,14 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/button5"
+            android:id="@+id/confirmProfileDeleteBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/yesBtnTxt" />
 
         <Button
-            android:id="@+id/button8"
+            android:id="@+id/cancelProfileDeletingBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"

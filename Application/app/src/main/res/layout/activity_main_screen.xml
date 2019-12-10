@@ -133,7 +133,7 @@
         android:orientation="horizontal">
 
         <TextView
-            android:id="@+id/textView9"
+            android:id="@+id/distanceCountTxt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginEnd="10dp"
@@ -155,11 +155,11 @@
         android:orientation="vertical">
 
         <Button
-            android:id="@+id/button6"
+            android:id="@+id/countingBtn"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
-            android:text="@string/counterControlBtnOnPos"
-            android:textSize="25sp" />
+            android:textSize="25sp"
+            android:text="@string/counterControlBtnOnPos"/>
     </LinearLayout>
 
 </LinearLayout>

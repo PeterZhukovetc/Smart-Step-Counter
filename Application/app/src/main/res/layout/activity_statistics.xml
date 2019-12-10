@@ -51,14 +51,15 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/tenDaysStatisticsTxt"
+            android:text="@string/fiveDaysStatisticsTxt"
             android:textSize="20sp"/>
     </LinearLayout>
 
     <com.jjoe64.graphview.GraphView
+        android:id="@+id/statisticsGraph"
         android:layout_width="wrap_content"
         android:layout_height="316dp"
-        android:layout_marginBottom="35dp" />
+        android:layout_marginBottom="28dp" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -72,11 +73,49 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/totalStatisticsTxt"
-            android:textSize="15sp"/>
+            android:textSize="20sp"/>
     </LinearLayout>
 
-    <Spinner
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp">
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Шаги"
+            android:layout_marginEnd="20dp"/>
+
+        <TextView
+            android:id="@+id/generalStepsTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp">
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Расстояние"
+            android:layout_marginEnd="20dp"/>
+
+        <TextView
+            android:id="@+id/generalDistanceTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
 
 </LinearLayout>

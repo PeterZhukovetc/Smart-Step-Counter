@@ -17,7 +17,7 @@
     <string name="counterControlBtnOffPos">Пуск</string>
     <string name="meterTxt">м</string>
     <string name="statisticsTxt">Статистика</string>
-    <string name="tenDaysStatisticsTxt">Сводка за последние 10 дней</string>
+    <string name="fiveDaysStatisticsTxt">Сводка за последние 5 дней</string>
     <string name="totalStatisticsTxt">Общая статистика</string>
     <string name="achievementsTxt">Достижения</string>
     <string name="goalsTxt">Цели</string>
